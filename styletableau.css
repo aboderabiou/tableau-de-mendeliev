@@ -1,0 +1,135 @@
+span{
+    font-size: 25px;font-weight: bold;
+}
+div{
+    font-size: 10px;
+    align-content: center;
+    text-align: center;
+}
+.ligne1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.ligne2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ 
+}
+.ligne3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.ligne4{
+    display: flex;
+    flex-direction: row;
+}
+.ligne5{
+    display: flex;
+    flex-direction: row;
+}
+.ligne6{
+    display: flex;
+    flex-direction: row;
+}
+.ligne7{
+    display: flex;
+    flex-direction: row;
+}
+.bas1{
+    display: flex;
+    flex-direction: row;
+}
+.bas2{
+    display: flex;
+    flex-direction: row;
+    
+}
+.bloc1{
+    display: flex;
+    flex-direction: row;
+}
+.bloc2{
+    
+    display: flex;
+    flex-direction: row;
+    
+}
+.color1{
+    background-color: #9e95c6 ;
+    width: 55px;
+    border-radius: 5px;
+}
+.color2{
+    background-color:#a2dac9;
+    width: 55px;
+    border-radius: 5px;
+}
+.color3{
+    background-color: #cdebc8;
+    width: 55px;
+    border-radius: 5px;
+}
+.color4{
+    background-color: #84b8d7;
+    width: 55px;
+    border-radius: 5px;
+}
+.color5{
+    background-color: #ffebb9;
+    width: 55px;
+    border-radius: 5px;
+}
+.color6{
+    background-color:#f0f9c1 ;
+    width: 55px;
+    border-radius: 5px;
+}
+.color7{
+    background-color: #fece9f;
+    width: 55px;
+    border-radius: 5px;
+}
+.color8{
+    background-color: #f8a68e;
+    width: 55px;
+    border-radius: 5px;
+}
+.color9{
+    background-color: #e58a94;
+    width: 55px;
+    border-radius: 5px;
+}
+.color10{
+    background-color:#c5668e ;
+    width: 55px;
+    border-radius: 5px;
+}
+.page{
+    display: flex;
+    flex-direction: column;
+    border: black solid 2px;
+    background-color: white;
+    justify-content: unset;
+    width: 1030px;
+}
+.bas{
+    margin-top: 50px;
+    margin-left: 113px;
+}
+div{
+    margin:1px;
+}
+body{
+    background-color: grey;
+}
+.image{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin-top: 20px;
+}
